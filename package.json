@@ -6,16 +6,11 @@
   "scripts": {
     "deploy": "gh-pages -d website"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/JavedAsgar/My-Profile.git"
-  },
+  
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/JavedAsgar/My-Profile/issues"
-  },
+  
   "homepage": "https://JavedAsgar.github.io/My-Profile",
   "dependencies": {
     "gh-pages": "^3.1.0"
